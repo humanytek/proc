@@ -2,3 +2,8 @@
 	path = ProcureMarco/purchase_tender_app
 	url = git@github.com:ProcureMarco/purchase_tender_app.git
 	branch = master
+
+[submodule "ProcurePurchase/purchase_tender_app"]
+	path = ProcurePurchase/purchase_tender_app
+	url = git@github.com:ProcureMarco/purchase_tender_app.git
+	branch = master
