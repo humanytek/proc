@@ -1,0 +1,4 @@
+[submodule "humanytek-team/website_product_sorting_and_shopping"]
+	path = humanytek-team/website_product_sorting_and_shopping
+	url = git@github.com:humanytek-team/website_product_sorting_and_shopping.git
+	branch = master
