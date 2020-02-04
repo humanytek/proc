@@ -2,3 +2,7 @@
 	path = humanytek-team/website_product_sorting_and_shopping
 	url = git@github.com:humanytek-team/website_product_sorting_and_shopping.git
 	branch = master
+[submodule "ProcureMarco/purchase_tender_app"]
+	path = ProcureMarco/purchase_tender_app
+	url = git@github.com:ProcureMarco/purchase_tender_app.git
+	branch = master
